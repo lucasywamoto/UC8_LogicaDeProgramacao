@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T18:26:06.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="16.0.0" etag="2hRoH3jPrbPVTzaw4hWO" type="github"><diagram id="74KgRoFU-ngaeJmfLSAI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-17T20:06:38.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="d-vZ17Mx2QowgO8X0X6J" version="16.0.0" type="github">
+  <diagram id="74KgRoFU-ngaeJmfLSAI" name="Page-1">
+    <mxGraphModel dx="840" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v5wCSLvTBctfzUMArcy5-3" value="Leitura" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=0;size=26;arcSize=11;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5wCSLvTBctfzUMArcy5-4" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5wCSLvTBctfzUMArcy5-5" value="Escrita" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5wCSLvTBctfzUMArcy5-6" value="Processo" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v5wCSLvTBctfzUMArcy5-7" value="Decisão" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
